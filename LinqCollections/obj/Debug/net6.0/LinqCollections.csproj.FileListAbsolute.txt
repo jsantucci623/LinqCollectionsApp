@@ -1,0 +1,15 @@
+C:\Users\jsantucci\source\repos\LinqCollectionsApp\LinqCollections\bin\Debug\net6.0\LinqCollections.exe
+C:\Users\jsantucci\source\repos\LinqCollectionsApp\LinqCollections\bin\Debug\net6.0\LinqCollections.deps.json
+C:\Users\jsantucci\source\repos\LinqCollectionsApp\LinqCollections\bin\Debug\net6.0\LinqCollections.runtimeconfig.json
+C:\Users\jsantucci\source\repos\LinqCollectionsApp\LinqCollections\bin\Debug\net6.0\LinqCollections.dll
+C:\Users\jsantucci\source\repos\LinqCollectionsApp\LinqCollections\bin\Debug\net6.0\LinqCollections.pdb
+C:\Users\jsantucci\source\repos\LinqCollectionsApp\LinqCollections\obj\Debug\net6.0\LinqCollections.csproj.AssemblyReference.cache
+C:\Users\jsantucci\source\repos\LinqCollectionsApp\LinqCollections\obj\Debug\net6.0\LinqCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsantucci\source\repos\LinqCollectionsApp\LinqCollections\obj\Debug\net6.0\LinqCollections.AssemblyInfoInputs.cache
+C:\Users\jsantucci\source\repos\LinqCollectionsApp\LinqCollections\obj\Debug\net6.0\LinqCollections.AssemblyInfo.cs
+C:\Users\jsantucci\source\repos\LinqCollectionsApp\LinqCollections\obj\Debug\net6.0\LinqCollections.csproj.CoreCompileInputs.cache
+C:\Users\jsantucci\source\repos\LinqCollectionsApp\LinqCollections\obj\Debug\net6.0\LinqCollections.dll
+C:\Users\jsantucci\source\repos\LinqCollectionsApp\LinqCollections\obj\Debug\net6.0\refint\LinqCollections.dll
+C:\Users\jsantucci\source\repos\LinqCollectionsApp\LinqCollections\obj\Debug\net6.0\LinqCollections.pdb
+C:\Users\jsantucci\source\repos\LinqCollectionsApp\LinqCollections\obj\Debug\net6.0\LinqCollections.genruntimeconfig.cache
+C:\Users\jsantucci\source\repos\LinqCollectionsApp\LinqCollections\obj\Debug\net6.0\ref\LinqCollections.dll
